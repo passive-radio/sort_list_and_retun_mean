@@ -1,2 +1,3 @@
-# sort_list_and_retun_mean
-aaa
+# Bubble sort writtern in Python
+
+a tardy sort algorhythm..
